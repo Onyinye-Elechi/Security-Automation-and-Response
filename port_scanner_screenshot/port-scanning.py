@@ -1,4 +1,4 @@
-print("CSN Script for Port Scanning!\n")
+print("Script for Port Scanning!\n")
  
 import socket
 from selenium import webdriver
