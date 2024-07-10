@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
  
 target = "192.168.16.43"
-port_range = (130, 140)
+port_range = (520, 540)
  
 open_ports = []
 
