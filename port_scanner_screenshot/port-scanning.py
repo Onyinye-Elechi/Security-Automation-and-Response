@@ -1,11 +1,11 @@
-print("CSN Script for Port Scanning!\n")
+print("Script for Port Scanning!\n")
  
 import socket
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
  
-target = "192.168.16.43"
-port_range = (520, 540)
+target = "127.0.0.1"
+port_range = (49664, 49665)
  
 open_ports = []
 
