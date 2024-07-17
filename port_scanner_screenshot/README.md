@@ -54,7 +54,8 @@ port_range = (16992, 16995)
 - `port_range`: Defines the range of ports to scan. Here, the range is set from 16992 to 16995.
 
 ### List to Store Open Ports
-```open_ports = []
+```
+open_ports = []
 ```
 - An empty list to store the ports that are found to be open during the scan.
 
