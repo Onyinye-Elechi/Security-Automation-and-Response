@@ -11,7 +11,7 @@ logging.basicConfig(
     filemode='w'  # 'w' to overwrite the log file each time script runs; use 'a' to append
 )
 
-logging.info("Script for Port Scanning!")
+logging.info("cScript for Port Scanning!")
 
 # Define the target IP address and the port range to scan
 target = "127.0.0.1"
