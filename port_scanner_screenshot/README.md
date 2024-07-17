@@ -10,6 +10,6 @@ This project is a simple port scanner script that scans a range of ports on a sp
 
 ## Installation - install the required python packages
 
-pip install selenium
+```pip install selenium```
 
 
